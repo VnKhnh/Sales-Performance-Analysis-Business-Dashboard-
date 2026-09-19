@@ -138,4 +138,3 @@ File `.pbix` mở bằng **Power BI Desktop**.
 
 ---
 
-*Project thực hiện bởi [VnKhnh](https://github.com/VnKhnh).*
