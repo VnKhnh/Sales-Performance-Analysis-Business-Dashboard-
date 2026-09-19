@@ -76,7 +76,7 @@ Toàn bộ ảnh kết quả nằm trong thư mục `img/`.
 
 ## 4. Một số kết quả chính
 
-- **Doanh thu tăng trưởng nhưng không đều.** Hai năm đầu gần như đi ngang (479K → 459K USD), sau đó bật lên rõ ở 2017 và 2018 (600K → 722K USD). Đồ thị theo tháng cho thấy đỉnh lặp lại vào các tháng cuối năm — dấu hiệu mùa vụ khá rõ.
+- **Doanh thu tăng trưởng nhưng không đều.** Hai năm đầu gần như đi ngang (479K → 459K USD), sau đó tăng cao rõ ở 2017 và 2018 (600K → 722K USD). Đồ thị theo tháng cho thấy đỉnh lặp lại vào các tháng cuối năm — dấu hiệu mùa vụ khá rõ.
 - **Technology dẫn đầu doanh thu** (~827K USD), theo sau là Furniture (~729K) và Office Supplies (~705K). Khoảng cách giữa ba nhóm không quá lớn, nhưng Technology có biên tăng trưởng tốt hơn theo năm.
 - **West và East chiếm hơn 60% doanh thu**, trong khi South chỉ đóng góp khoảng 17% — chênh lệch vùng miền rất đáng chú ý.
 - **Phụ thuộc mạnh vào một vài thị trường:** riêng California và New York đã chiếm gần 1/3 tổng doanh thu.
